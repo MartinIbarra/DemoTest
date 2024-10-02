@@ -1,0 +1,40 @@
+.container-fluid {
+  height: 100%;
+}
+
+.office-background {
+  background-img: url("../assets/img/office_view.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-dark {
+  background-color: #031d3a !important;
+}
+
+/* .bg-light {
+  background-color: #f4f4f4 !important;
+} */
+
+.form-control {
+  border-radius: 0.25rem;
+}
+
+.btn-primary {
+  background-color: #031d3a;
+  border: none;
+}
+
+.btn-outline-light {
+  color: #fff;
+  border-color: #fff;
+}
+
+.shadow-lg {
+  box-shadow: 0 2rem 2rem rgba(0, 0, 0, 0.2);
+}
